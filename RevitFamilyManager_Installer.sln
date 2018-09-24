@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RevitFamilyManager_Installer", "RevitFamilyManager_Installer\RevitFamilyManager_Installer.vdproj", "{6FA581D5-BF37-4CE4-A087-A55518E0167C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA581D5-BF37-4CE4-A087-A55518E0167C}.Debug|Default.ActiveCfg = Debug
+		{6FA581D5-BF37-4CE4-A087-A55518E0167C}.Debug|Default.Build.0 = Debug
+		{6FA581D5-BF37-4CE4-A087-A55518E0167C}.Release|Default.ActiveCfg = Release
+		{6FA581D5-BF37-4CE4-A087-A55518E0167C}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4100D4-23F0-4D33-8B1E-A92FC159E99C}
+	EndGlobalSection
+EndGlobal
